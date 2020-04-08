@@ -8,8 +8,18 @@
     "vuepress": "^1.4.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajpai244/kodkaratedocs.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/bajpai244/kodkaratedocs/issues"
+  },
+  "homepage": "https://github.com/bajpai244/kodkaratedocs#readme"
 }
